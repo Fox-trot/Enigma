@@ -61,3 +61,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# 1C files
+1Cv8Log\*
+*.1cd
+*.cfl
